@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maheshparajuli717@gmail.com**
 
-- ⚡ Fun fact **Im more serious than you think**
+- ⚡ Fun fact **Im still trying to figure out what i want to do. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
