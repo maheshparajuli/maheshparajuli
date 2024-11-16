@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshparajuli&label=Profile%20views&color=0e75b6&style=flat" alt="maheshparajuli" /> </p>
+
 
 - 🌱 I’m currently learning **web development**
 
