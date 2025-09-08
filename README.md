@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Neural Networks and different types**
 
 - 📫 How to reach me: **maheshparajuli717@gmail.com**
 
