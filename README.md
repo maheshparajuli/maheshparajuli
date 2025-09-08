@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Parajuli</h1>
-<h3 align="center">A passionate web app developer</h3>
+<h3 align="center">Exploring Artificial Intelligence and Machine Learning</h3>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
