@@ -34,10 +34,6 @@ const mahesh = {
 
 ## 🌱 What I'm Currently Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maheshparajuli&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" />
-</div>
-
 - 🧠 **Neural Networks** and their different architectures
 - 🔥 **Deep Learning** frameworks and techniques  
 - 📊 **Data Science** and machine learning algorithms
@@ -77,20 +73,12 @@ const mahesh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshparajuli&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maheshparajuli&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshparajuli&theme=tokyonight" alt="mystreak"/>
 </div>
 
 ---
@@ -98,28 +86,7 @@ const mahesh = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshparajuli&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D4AA&point=FFFFFF&color=FFFFFF"/>
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5rz3hyp6uaxovld77uqzjhfhm&count=1&unique=true" width="400" />
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh%20parajuli)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahesh%20parajuli)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/drowninglekhnath)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshparajuli717@gmail.com)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshparajuli&theme=github-compact"/>
 </div>
 
 ---
