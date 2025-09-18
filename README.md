@@ -38,14 +38,11 @@ I'm an AI/ML enthusiast from Nepal, passionate about neural networks and deep le
 
 ## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Mahesh's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=vue-dark" alt="Top Languages" height="180em" />
-</div>
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=dark)
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshparajuli&theme=vue-dark" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshparajuli&theme=dark)
 
 ---
 
