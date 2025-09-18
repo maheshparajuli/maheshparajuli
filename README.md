@@ -4,11 +4,11 @@ I'm an AI/ML enthusiast from Nepal, passionate about neural networks and deep le
 
 ## About Me
 
-- 🎓 Computer Science Student
+- 🎓 Computational mathematics Student
 - 🌱 Currently learning Neural Networks and Deep Learning
 - 🔭 Working on AI/ML projects
 - 💡 Interested in data science and machine learning algorithms
-- 📍 Based in Nepal
+
 
 ## Skills
 
