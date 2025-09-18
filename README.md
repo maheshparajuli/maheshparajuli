@@ -18,7 +18,7 @@ I'm an AI/ML enthusiast from Nepal, passionate about neural networks and deep le
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 **AI/ML Technologies:**
 
@@ -38,11 +38,17 @@ I'm an AI/ML enthusiast from Nepal, passionate about neural networks and deep le
 
 ## GitHub Stats
 
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=dark)
+<p align="center">
+  <img alt="Mahesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=dark)
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=dark&langs_count=8" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshparajuli&theme=dark)
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshparajuli&theme=dark" />
+</p>
 
 ---
 
