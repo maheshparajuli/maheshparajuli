@@ -12,7 +12,11 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=maheshparajuli&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maheshparajuli&theme=darkhub&margin-w=15&margin-h=15&no-bg=true" />
+</p>
+
 ---
 
 ✨ *Always learning, always growing*  
-💻 Tech enthusiast with a strong interest in **backend development**, currently developing in **Python** and working with various **Python libraries**.
+💻 Tech enthusiast with a strong interest in **backend development**, currently developing in **Python** and working with various **Python libraries**.  
