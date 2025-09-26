@@ -1,7 +1,7 @@
 # Hi, I'm Mahesh Parajuli 👋
 
 <p align="center">
-  <img alt="Mahesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img alt="Mahesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
