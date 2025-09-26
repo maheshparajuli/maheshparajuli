@@ -2,10 +2,11 @@
 
 <p align="center">
   <img alt="Mahesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maheshparajuli&show_icons=true&theme=dark" />
+   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=dark&langs_count=8" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshparajuli&layout=compact&theme=dark&langs_count=8" />
+ 
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=maheshparajuli&theme=dark" />
 </p>
 
